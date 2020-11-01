@@ -3,5 +3,6 @@ public class Superman {
         System.out.println("superman");
         System.out.println("making changes from gotham branch");
         System.out.println("makin changes from master branch");
+        System.out.println("Adding new line change");
     }
 }
